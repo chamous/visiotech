@@ -1,0 +1,8 @@
+{
+  "name": "visiotech-monorepo",
+  "private": false,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
